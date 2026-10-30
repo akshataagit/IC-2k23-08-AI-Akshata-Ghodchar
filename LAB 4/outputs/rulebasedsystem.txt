@@ -1,0 +1,11 @@
+===== Medical Expert System =====
+
+Do you have fever? (yes/no): yes
+Do you have cough? (yes/no): yes
+Do you have cold? (yes/no): yes
+Do you have headache? (yes/no): no
+
+Rule 1 Activated
+Possible condition: Flu-like illness
+
+===== System Completed =====

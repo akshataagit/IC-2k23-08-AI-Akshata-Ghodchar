@@ -1,0 +1,36 @@
+Array 1: [10 20 30 40 50]
+Array 2: [1 2 3 4 5]
+
+Addition: [11 22 33 44 55]
+Subtraction: [9 18 27 36 45]
+Multiplication: [10 40 90 160 250]
+Division: [10. 10. 10. 10. 10.]
+
+Sum: 150
+Mean: 30.0
+Maximum: 50
+Minimum: 10
+
+2D Array:
+[[1 2 3]
+ [4 5 6]
+ [7 8 9]]
+
+Shape: (3, 3)
+Dimensions: 2
+Size: 9
+
+Transpose:
+[[1 4 7]
+ [2 5 8]
+ [3 6 9]]
+
+Matrix Addition:
+[[ 2  4  6]
+ [ 8 10 12]
+ [14 16 18]]
+
+Reshaped Array:
+[[1 2 3]
+ [4 5 6]
+ [7 8 9]]

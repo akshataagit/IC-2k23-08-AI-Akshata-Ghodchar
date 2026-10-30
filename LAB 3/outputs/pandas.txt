@@ -1,0 +1,36 @@
+Pandas Series:
+0    85
+1    90
+2    78
+3    95
+4    88
+
+Original DataFrame:
+    Name  Age  Marks    City
+0   Amit   20     85  Indore
+1   Riya   21     90  Bhopal
+2  Rahul   19     78  Indore
+3  Priya   22     95  Ujjain
+4   Neha   20     88  Bhopal
+
+First 3 Records:
+    Name  Age  Marks    City
+0   Amit   20     85  Indore
+1   Riya   21     90  Bhopal
+2  Rahul   19     78  Indore
+
+Students with Marks Greater than 85:
+    Name  Age  Marks    City
+1   Riya   21     90  Bhopal
+3  Priya   22     95  Ujjain
+4   Neha   20     88  Bhopal
+
+Sorted by Marks:
+    Name  Age  Marks    City
+2  Rahul   19     78  Indore
+0   Amit   20     85  Indore
+4   Neha   20     88  Bhopal
+1   Riya   21     90  Bhopal
+3  Priya   22     95  Ujjain
+
+Data Saved Successfully!

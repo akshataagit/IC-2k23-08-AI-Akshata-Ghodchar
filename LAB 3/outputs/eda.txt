@@ -1,0 +1,33 @@
+Dataset:
+    Name  Age  Marks  Attendance
+0   Amit   20     85          90
+1   Riya   21     90          95
+2  Rahul   19     78          80
+3  Priya   22     95          98
+4   Neha   20     88          92
+
+Statistical Summary:
+
+             Age      Marks  Attendance
+count   5.000000   5.000000    5.000000
+mean   20.400000  87.200000   91.000000
+min    19.000000  78.000000   80.000000
+max    22.000000  95.000000   98.000000
+
+Missing Values:
+Name          0
+Age           0
+Marks         0
+Attendance    0
+
+Duplicate Records:
+0
+
+Average Marks:
+87.2
+
+Maximum Marks:
+95
+
+Minimum Marks:
+78

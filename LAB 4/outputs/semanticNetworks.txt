@@ -1,0 +1,25 @@
+===== Semantic Network =====
+
+Dog -- IS-A --> Mammal
+Dog -- HAS-A --> Tail
+Dog -- CAN-DO --> Bark
+
+Cat -- IS-A --> Mammal
+Cat -- HAS-A --> Tail
+Cat -- CAN-DO --> Meow
+
+Mammal -- IS-A --> Animal
+Mammal -- HAS-A --> Warm Blood
+
+Animal -- NEEDS --> Food
+Animal -- CAN-DO --> Move
+
+===== Dog Relationships =====
+
+IS-A : Mammal
+HAS-A : Tail
+CAN-DO : Bark
+
+Dog IS-A: Mammal
+Cat CAN-DO: Meow
+Mammal IS-A: Animal

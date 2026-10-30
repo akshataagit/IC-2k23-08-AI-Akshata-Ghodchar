@@ -1,0 +1,23 @@
+Knowledge Base:
+
+Amit : {'age': 20, 'course': 'MCA',
+'subject': 'Artificial Intelligence', 'marks': 85}
+
+Riya : {'age': 21, 'course': 'MCA',
+'subject': 'Python', 'marks': 90}
+
+Rahul : {'age': 22, 'course': 'MCA',
+'subject': 'Machine Learning', 'marks': 78}
+
+Student Details:
+Amit's Age: 20
+Riya's Subject: Python
+
+Student Performance:
+Amit : Excellent
+Riya : Excellent
+Rahul : Needs Improvement
+
+After Adding New Knowledge:
+{'age': 20, 'course': 'MCA',
+'subject': 'Data Science', 'marks': 88}

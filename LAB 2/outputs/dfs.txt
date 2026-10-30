@@ -1,0 +1,3 @@
+Goal Found!
+Path: S -> A -> C -> G
+Path Length: 3

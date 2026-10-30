@@ -1,0 +1,2 @@
+Goal Found!
+Path: S -> B -> D -> G
