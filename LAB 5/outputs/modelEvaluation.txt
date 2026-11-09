@@ -1,0 +1,36 @@
+========== MODEL EVALUATION ==========
+
+Dataset: Iris Dataset
+
+Total Samples: 150
+Training Samples: 120
+Testing Samples: 30
+
+Model: Decision Tree Classifier
+
+========== PERFORMANCE METRICS ==========
+
+Accuracy: 96.67%
+Precision: 96.97%
+Recall: 96.67%
+F1 Score: 96.66%
+
+========== CLASSIFICATION REPORT ==========
+
+              precision    recall  f1-score   support
+
+      setosa       1.00      1.00      1.00        10
+  versicolor       0.90      0.90      0.90        10
+   virginica       1.00      1.00      1.00        10
+
+    accuracy                           0.97        30
+   macro avg       0.97      0.97      0.97        30
+weighted avg       0.97      0.97      0.97        30
+
+========== CONFUSION MATRIX ==========
+
+[[10  0  0]
+ [ 0  9  1]
+ [ 0  0 10]]
+
+Model evaluation completed successfully!
