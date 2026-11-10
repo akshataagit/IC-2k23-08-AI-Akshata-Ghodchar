@@ -1,0 +1,40 @@
+
+Input Dataset:
+ tensor([[0.0000, 0.0000],
+         [0.0000, 1.0000],
+         [1.0000, 0.0000],
+         [1.0000, 1.0000],
+         [0.2000, 0.3000],
+         [0.3000, 0.8000],
+         [0.8000, 0.2000],
+         [0.9000, 0.9000]])
+
+Target Output:
+ tensor([[0.],
+        [0.],
+        [0.],
+        [1.],
+        [0.],
+        [1.],
+        [1.],
+        [1.]])
+
+Epoch [200/1000], Loss: ...
+Epoch [400/1000], Loss: ...
+Epoch [600/1000], Loss: ...
+Epoch [800/1000], Loss: ...
+Epoch [1000/1000], Loss: ...
+
+Model Predictions:
+Input: [0.0, 0.0], Actual: 0, Predicted: 0
+Input: [0.0, 1.0], Actual: 0, Predicted: 0
+Input: [1.0, 0.0], Actual: 0, Predicted: 0
+Input: [1.0, 1.0], Actual: 1, Predicted: 1
+Input: [0.2, 0.3], Actual: 0, Predicted: 0
+Input: [0.3, 0.8], Actual: 1, Predicted: 1
+Input: [0.8, 0.2], Actual: 1, Predicted: 1
+Input: [0.9, 0.9], Actual: 1, Predicted: 1
+
+Model Accuracy: 100.0 %
+
+Neural Network Training Completed Successfully!

@@ -1,0 +1,29 @@
+
+Input Data:
+ tensor([[1.],
+        [2.],
+        [3.],
+        [4.],
+        [5.]])
+
+Target Data:
+ tensor([[ 3.],
+        [ 5.],
+        [ 7.],
+        [ 9.],
+        [11.]])
+
+Epoch [200/1000], Loss: ...
+Epoch [400/1000], Loss: ...
+Epoch [600/1000], Loss: ...
+Epoch [800/1000], Loss: ...
+Epoch [1000/1000], Loss: ...
+
+Training Completed!
+Learned Weight: approximately 2.0
+Learned Bias: approximately 1.0
+
+Predictions:
+Input: 6.0, Predicted Output: approximately 13.00
+Input: 7.0, Predicted Output: approximately 15.00
+Input: 8.0, Predicted Output: approximately 17.00

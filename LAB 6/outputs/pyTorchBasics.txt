@@ -1,0 +1,43 @@
+
+1. Tensor Creation
+Tensor A: tensor([1, 2, 3, 4, 5])
+Tensor B: tensor([10, 20, 30, 40, 50])
+
+2. Special Tensors
+Zeros:
+ tensor([[0., 0., 0.],
+         [0., 0., 0.]])
+Ones:
+ tensor([[1., 1., 1.],
+         [1., 1., 1.]])
+Random Tensor:
+ tensor([[...]])
+
+3. Tensor Operations
+Addition: tensor([11, 22, 33, 44, 55])
+Subtraction: tensor([9, 18, 27, 36, 45])
+Multiplication: tensor([10, 40, 90, 160, 250])
+Division: tensor([10., 10., 10., 10., 10.])
+
+4. Matrix Multiplication
+Result:
+ tensor([[19, 22],
+         [43, 50]])
+
+5. Tensor Reshaping
+Original Tensor: tensor([1, 2, 3, 4, 5, 6])
+Reshaped Tensor:
+ tensor([[1, 2, 3],
+         [4, 5, 6]])
+
+6. Indexing and Slicing
+First Element: tensor(1)
+Last Element: tensor(5)
+First Three Elements: tensor([1, 2, 3])
+
+7. Automatic Differentiation
+Value of x: 3.0
+Value of y: 16.0
+Gradient of x: 8.0
+
+PyTorch Basics Completed Successfully!
